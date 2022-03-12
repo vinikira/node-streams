@@ -1,0 +1,7 @@
+;.editorconfig
+
+root=true
+
+[**.js]
+ident_style = space
+ident_size = 2
