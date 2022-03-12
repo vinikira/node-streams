@@ -1,0 +1,21 @@
+Node Streams
+
+* Getting started
+Assuming you're at the project directory, install the dependencies
+with:
+
+#+begin_src sh
+  npm install
+#+end_src
+
+Then run the server with:
+
+#+begin_src sh
+  npm run server
+#+end_src
+
+And finally run the client with:
+
+#+begin_src sh
+  npm run client
+#+end_src
